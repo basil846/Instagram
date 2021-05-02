@@ -24,6 +24,7 @@
 		FDC9E776262ECD9A0043B2FC /* PostData.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDC9E775262ECD9A0043B2FC /* PostData.swift */; };
 		FDC9E77A262ECE580043B2FC /* PostTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDC9E778262ECE580043B2FC /* PostTableViewCell.swift */; };
 		FDC9E77B262ECE580043B2FC /* PostTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = FDC9E779262ECE580043B2FC /* PostTableViewCell.xib */; };
+		FDC9E77E2635AD0E0043B2FC /* CommentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDC9E77D2635AD0E0043B2FC /* CommentViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +49,7 @@
 		FDC9E775262ECD9A0043B2FC /* PostData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostData.swift; sourceTree = "<group>"; };
 		FDC9E778262ECE580043B2FC /* PostTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostTableViewCell.swift; sourceTree = "<group>"; };
 		FDC9E779262ECE580043B2FC /* PostTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PostTableViewCell.xib; sourceTree = "<group>"; };
+		FDC9E77D2635AD0E0043B2FC /* CommentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				FD3B6270262E88EE00FB5B9B /* SettingViewController.swift */,
 				FD3B6274262E95BF00FB5B9B /* TabBarController.swift */,
 				FDC9E778262ECE580043B2FC /* PostTableViewCell.swift */,
+				FDC9E77D2635AD0E0043B2FC /* CommentViewController.swift */,
 				FDC9E779262ECE580043B2FC /* PostTableViewCell.xib */,
 				FDC9E772262ECAE00043B2FC /* Const.swift */,
 				FDC9E775262ECD9A0043B2FC /* PostData.swift */,
@@ -245,6 +248,7 @@
 				FD3B6271262E88EE00FB5B9B /* SettingViewController.swift in Sources */,
 				FDC9E776262ECD9A0043B2FC /* PostData.swift in Sources */,
 				FD3B6265262E88A300FB5B9B /* LoginViewController.swift in Sources */,
+				FDC9E77E2635AD0E0043B2FC /* CommentViewController.swift in Sources */,
 				FD3B624F262E880D00FB5B9B /* AppDelegate.swift in Sources */,
 				FD3B6251262E880D00FB5B9B /* SceneDelegate.swift in Sources */,
 				FDC9E773262ECAE00043B2FC /* Const.swift in Sources */,
